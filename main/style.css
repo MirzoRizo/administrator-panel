@@ -78,7 +78,7 @@
   border: none;
 }
 input:focus {
-    border: 1px;
+  border: 1px;
 }
 .header .down {
   display: grid;
@@ -109,7 +109,7 @@ input:focus {
 }
 
 .main {
-  background-color: #e2e8f0 ;
+  background-color: #e2e8f0;
   display: grid;
   grid-template: auto / 1fr auto;
   padding: 20px 10px;
@@ -129,7 +129,7 @@ input:focus {
   gap: 10px;
 }
 .card {
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 10px;
   background-color: #fff;
   height: 100px;
@@ -153,7 +153,7 @@ input:focus {
 }
 .announsments {
   background-color: #fff;
-  border-radius: 10px;
+  border-radius: 5px;
   font-size: 6px;
   font-weight: bold;
   padding: 10px;
@@ -174,7 +174,7 @@ input:focus {
 
 .trending {
   background-color: #fff;
-  border-radius: 10px;
+  border-radius: 5px;
   font-size: 6px;
   font-weight: bold;
   padding: 10px;
@@ -185,12 +185,12 @@ input:focus {
   align-items: center;
 }
 .trending div {
-    font-weight: normal;
-    color: #71717a;
+  font-weight: normal;
+  color: #71717a;
 }
 .trending span {
-    font-weight: 500;
-    color: black;
+  font-weight: 500;
+  color: black;
 }
 .normal_ava {
   height: 20px;
